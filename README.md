@@ -6,7 +6,7 @@
  
 
  <h3>Hola 👋, soy Fabian Menjura y es un gusto tenerte aqui</h3>
- <p>Te cuento que no llevo mucho en la programación y que no ha sido facil, cuando comence a ver programación java en la universidad me frustre un poco y decidi estudiar un poco por mi parte, en este tiempo aprendi algunas tecnologias y desarrolle pequeños proyectos de paginas web como una pagina de recetas de comida con peticiones a una apikey, tambien junto a 7 compañeros realizamos un proyecto fullStack que incluye login, pasarela de pagos, chat entre otras cosas.</p>
+ <p>Te cuento que no llevo mucho en la programación y que no ha sido facil, cuando comence a ver programación java en la universidad me frustre  y decidi estudiar un poco por mi parte, en este tiempo aprendi algunas tecnologias y desarrolle pequeños proyectos de paginas web como una pagina de recetas de comida con peticiones a una apikey, tambien junto a 7 compañeros realizamos un proyecto fullStack que incluye login, pasarela de pagos, chat entre otras cosas.</p>
 <!--
 **fabian-07-menjura/fabian-07-menjura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
