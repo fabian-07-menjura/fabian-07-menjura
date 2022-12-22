@@ -1,5 +1,5 @@
 
-<h2 align="center">Desarrollador full-StacK</h2>
+<h2 align="center">Desarrollador Full-StacK</h2>
 
  <img height="300px" width="100%" src="https://user-images.githubusercontent.com/86250631/209225927-b64f22d8-b04f-40e9-8cd8-e7d268d3e93a.gif"/>
  <h3>Hola 👋, soy Fabian Menjura y es un gusto tenerte aqui</h3>
