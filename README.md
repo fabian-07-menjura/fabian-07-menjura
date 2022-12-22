@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![me](file:///C:/Users/57314/Downloads/giphy-tecnology.gif)
+
 <!--
 **fabian-07-menjura/fabian-07-menjura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
