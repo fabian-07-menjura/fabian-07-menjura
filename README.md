@@ -1,6 +1,6 @@
 ### Hi there 👋
+![giphy-tecnology](https://user-images.githubusercontent.com/86250631/209225927-b64f22d8-b04f-40e9-8cd8-e7d268d3e93a.gif)
 
-![me](file:///C:/Users/57314/Downloads/giphy-tecnology.gif)
 
 <!--
 **fabian-07-menjura/fabian-07-menjura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
