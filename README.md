@@ -1,4 +1,4 @@
-### Hi, I'm abian Menjura 👋
+### Hi, I'm Fabian Menjura 👋
 ![giphy-tecnology](https://user-images.githubusercontent.com/86250631/209225927-b64f22d8-b04f-40e9-8cd8-e7d268d3e93a.gif)
 
 <!--
