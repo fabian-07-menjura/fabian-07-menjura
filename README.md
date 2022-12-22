@@ -5,7 +5,7 @@
  <img height="300px" width="100%" src="https://user-images.githubusercontent.com/86250631/209225927-b64f22d8-b04f-40e9-8cd8-e7d268d3e93a.gif"/>
  
 <p align="center">
-<a href="https://linkedin.com/in/fabian menjura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabian menjura" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/fabian-menjura-1409ba216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabian menjura" height="20" width="20" /></a>
 </p>
  <h3>Hola 👋, soy Fabian Menjura y es un gusto tenerte aqui</h3>
 <!--
