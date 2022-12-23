@@ -21,8 +21,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
  </p>
-
-  <img  height="150px" width="100%" src="https://github-readme-stats.vercel.app/api?username=fabian-07-menjura"/>
+<div>
+  <a href="https://github.com/fabian-07-menjura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabian-07-menjura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian-07-menjura&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<!--   <img  height="150px" width="100%" src="https://github-readme-stats.vercel.app/api?username=fabian-07-menjura"/> -->
 <!--
 **fabian-07-menjura/fabian-07-menjura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
