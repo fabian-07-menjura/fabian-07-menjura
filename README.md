@@ -1,9 +1,9 @@
 
 <h2 align="center">Desarrollador Full-StacK👨‍💻</h2>
 <h3  align="center" >Un apasionado al desarrollo web, de Colombia</h3>
-
+ <a href="https://getbootstrap.com">
  <img  height="300px" width="100%" src="https://user-images.githubusercontent.com/86250631/209225927-b64f22d8-b04f-40e9-8cd8-e7d268d3e93a.gif"/>
- 
+ </a>
 
  <h3>Hola 👋, soy Fabian Menjura y es un gusto tenerte aqui</h3>
  <p>Te cuento que no llevo mucho en la programación y que no ha sido facil, cuando comence a ver programación java en la universidad me frustre  y decidi estudiar un poco por mi parte, en este tiempo aprendi algunas tecnologias y desarrolle pequeños proyectos como una pagina web de recetas de comida con peticiones a una apikey, aprobada por un PI expert, tambien junto a 7 compañeros realizamos un proyecto fullStack supervisado por un PO, que incluye login, pasarela de pagos, chat entre otras cosas.</p>
