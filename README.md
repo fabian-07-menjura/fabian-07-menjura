@@ -1,7 +1,7 @@
 
 <h2 align="center">Desarrollador Full-StacK👨‍💻</h2>
 <h3  align="center" >Un apasionado al desarrollo web, de Colombia</h3>
- <a href="[https://getbootstrap.com](https://www.linkedin.com/in/fabian-menjura-1409ba216/)">
+ <a href="https://www.linkedin.com/in/fabian-menjura-1409ba216/">
  <img  height="300px" width="100%" src="https://user-images.githubusercontent.com/86250631/209225927-b64f22d8-b04f-40e9-8cd8-e7d268d3e93a.gif"/>
  </a>
 
