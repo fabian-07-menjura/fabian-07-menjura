@@ -4,8 +4,8 @@
  <a href="https://www.linkedin.com/in/fabian-menjura-1409ba216/">
  <img  height="300px" width="100%" src="https://user-images.githubusercontent.com/86250631/209225927-b64f22d8-b04f-40e9-8cd8-e7d268d3e93a.gif"/>
  </a>
+<h3 align="left">Hola 👋, soy Fabian Menjura y es un gusto tenerte aqui <img src="./src/wave.gif" width="30px"></h3>
 
- <h3>Hola 👋, soy Fabian Menjura y es un gusto tenerte aqui</h3>
  <p> 💬 Te cuento que no llevo mucho en la programación y que no ha sido facil, cuando comence a ver programación java en la universidad me frustre  y decidi estudiar un poco por mi cuenta, en este tiempo aprendi algunas tecnologias y desarrolle pequeños proyectos como una pagina web de recetas de comida con peticiones a una apikey, aprobada por un PI expert, tambien junto a 7 compañeros realizamos un proyecto fullStack supervisado por un PO, que incluye login, pasarela de pagos, chat entre otras cosas.</p>
  
  <h3 align="left">🛠️ Herramientas manejadas:</h3>
