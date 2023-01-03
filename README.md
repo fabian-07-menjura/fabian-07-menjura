@@ -8,7 +8,7 @@
 
  <p> 💬 Te cuento que no llevo mucho en la programación y que no ha sido facil, cuando comence a ver programación java en la universidad me frustre  y decidi estudiar un poco por mi cuenta, en este tiempo aprendi algunas tecnologias y desarrolle pequeños proyectos como una pagina web de recetas de comida con peticiones a una apikey, aprobada por un PI expert, tambien junto a 7 compañeros realizamos un <a href="https://find-your-teacher-pf.vercel.app/">proyecto</a> fullStack supervisado por un PO, que incluye login, pasarela de pagos, chat, entre otras cosas.</p>
  
- 📣 <em>Recuerda lo que necesites contactame por <a href="https://www.linkedin.com/in/fabian-menjura-1409ba216/">Linkedin</a></em>
+ 📣 <em>Recuerda lo que necesites contactame por <a href="https://www.linkedin.com/in/fabian-menjura-1409ba216/">Linkedin</a> | Email: fabian.menjura.22@gmail.com </em>
  
  <h3 align="left">🛠️ Herramientas manejadas:</h3>
 
