@@ -29,7 +29,7 @@
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian-07-menjura&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
-![snake gif](https://github.com/fabian-07-menjura/fabian-07-menjura/blob/output/github-contribution-grid-snake.gif)
+
 
 
    <img width="100%" height="220px" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"/>
