@@ -32,5 +32,5 @@
 ![snake gif](https://github.com/fabian-07-menjura/fabian-07-menjura/blob/output/github-contribution-grid-snake.gif)
 
 
- 
+   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"/>
 
