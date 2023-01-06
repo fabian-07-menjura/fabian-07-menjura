@@ -32,7 +32,7 @@
 </div>
 
 <br />
-<br />
+
  
    <img padding="10px" width="100%" height="220px" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"/>
 
