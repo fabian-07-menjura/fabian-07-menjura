@@ -24,11 +24,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
  </p>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabian-07-menjura&layout=compact&theme=merko"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabian-07-menjura&layout=compact&theme=radical"/>
 
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabian-07-menjura&theme=merko)](https://git.io/streak-stats)
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabian-07-menjura&show_icons=true&theme=merko)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabian-07-menjura&theme=dark)](https://git.io/streak-stats)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabian-07-menjura&show_icons=true&theme=dark)
    
 <br />
 
