@@ -27,8 +27,9 @@
  <div>
   <a href="https://github.com/fabian-07-menjura/github-readme-stats">
  <img src ="https://github-readme-stats.vercel.app/api?username=fabian-07-menjura&show_icons=true&theme=merko"/>
-  
 </div>
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabian-07-menjura&theme=onedark)](https://git.io/streak-stats)
 
 <br />
 
