@@ -6,7 +6,7 @@
  </a>
 <h3 align="left">Hola 👋, soy Fabian Menjura y es un gusto tenerte aqui <img src="./src/wave.gif" width="30px"></h3>
 
- <p> 💬 Te cuento que no llevo mucho en la programación y que no ha sido facil, decidi estudiar un poco por mi cuenta y en menos de dos años aprendi algunas tecnologias y desarrolle pequeños proyectos como una pagina web de recetas de comida con peticiones a una apikey, aprobada por un PI expert, tambien junto a 7 compañeros realizamos un <a href="https://find-your-teacher-pf.vercel.app/">proyecto</a> fullStack que incluye login, pasarela de pagos, chat, entre otras cosas. Este proyecto fue supervisado por un instructor y presentado a un Product Owner</p>
+ <p> 💬 Debido a mi gusto por la programacion, decidi estudiar un poco por mi cuenta y en menos de dos años aprendi algunas tecnologias y desarrolle pequeños proyectos como una pagina web de recetas de comida con peticiones a una apikey, aprobada por un PI expert, tambien junto a 7 compañeros realizamos un <a href="https://find-your-teacher-pf.vercel.app/">proyecto</a> fullStack que incluye login, pasarela de pagos, chat, entre otras cosas. Este proyecto fue supervisado por un instructor y presentado a un Product Owner</p>
  
   <a href="https://portafolio-c95a5.web.app/">Mi portafolio web</a>
  
