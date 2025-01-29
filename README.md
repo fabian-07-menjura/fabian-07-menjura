@@ -8,7 +8,7 @@
 
  <p> 💬 Debido a mi gusto por la programacion, decidi estudiar un poco por mi cuenta y en menos de dos años aprendi algunas tecnologias y desarrolle pequeños proyectos como una pagina web de recetas de comida con peticiones a una apikey, aprobada por un PI expert, tambien junto a 7 compañeros realizamos un <a href="https://find-your-teacher-pf.vercel.app/">proyecto</a> fullStack que incluye login, pasarela de pagos, chat, entre otras cosas. Este proyecto fue supervisado por un instructor y presentado a un Product Owner</p>
  
-  <a href="https://portafolio-c95a5.web.app/">Mi portafolio web</a>
+  <a href="https://portafolio-web-angular.netlify.app/">Mi portafolio web</a>
  
  📣 <em>Recuerda lo que necesites contactame por <a href="https://www.linkedin.com/in/fabian-menjura-1409ba216/">Linkedin</a> || Email: fabian.menjura.22@gmail.com </em>
  
